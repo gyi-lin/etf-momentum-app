@@ -1,5 +1,5 @@
-streamlit>=1.32.0
-akshare==1.12.30  # 固定版本避免API变更
+streamlit
+akshare
 pandas
 numpy
 plotly
